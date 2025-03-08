@@ -1,7 +1,7 @@
 <h1 align="center" style="text-align: center; border-bottom: none; margin-bottom: 0px;"> Welcome, I'm Jose! </h1>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; ext-align:center;">
-    <h3 align="center" style="margin-top: 7.5px; font-weight: bold; text-align:center;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; ext-align:center; ">
+    <h3 align="center" style="margin-top: 5px; font-weight: bold; text-align:center;">
         ────────&nbsp;&nbsp;Back-end Software Developer&nbsp;&nbsp;✦&nbsp;&nbsp;DevOps Engineer&nbsp;&nbsp;────────  
     </h3>
 </div>
@@ -96,7 +96,7 @@
 
 <p align="center" style="margin-bottom: -10px;">
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI+PHBhdGggZmlsbD0iI2YzZjNmMyIgZD0iTTAgMGgyM3YyM0gweiIvPjxwYXRoIGZpbGw9IiNmMzUzMjUiIGQ9Ik0xIDFoMTB2MTBIMXoiLz48cGF0aCBmaWxsPSIjODFiYzA2IiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIjMDVhNmYwIiBkPSJNMSAxMmgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiNmZmJhMDgiIGQ9Ik0xMiAxMmgxMHYxMEgxMnoiLz48L3N2Zz4="></a>
+    <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft_SQL_Server-cccccc?style=for-the-badge&logo=microsoft-sql-server-icon&logoColor=CC2927"></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="https://www.snowflake.com/" target="_blank"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"></a>
@@ -112,7 +112,7 @@
     <a href="https://alpinelinux.org/" target="_blank"><img src="https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white"></a>
     <br />
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
-    <a href="https://azure.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Azure-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI+PHBhdGggZmlsbD0iI2YzZjNmMyIgZD0iTTAgMGgyM3YyM0gweiIvPjxwYXRoIGZpbGw9IiNmMzUzMjUiIGQ9Ik0xIDFoMTB2MTBIMXoiLz48cGF0aCBmaWxsPSIjODFiYzA2IiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIjMDVhNmYwIiBkPSJNMSAxMmgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiNmZmJhMDgiIGQ9Ik0xMiAxMmgxMHYxMEgxMnoiLz48L3N2Zz4="></a>
+    <a href="https://azure.microsoft.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D6?style=for-the-badge&logo=microsoft_azure&logoColor=white"></a>
     <a href="https://learn.microsoft.com/windows/wsl/about" target="_blank"><img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="https://canonical.com/multipass" target="_blank"><img src="https://img.shields.io/badge/Multipass-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
@@ -122,7 +122,7 @@
 ### **Cloud & App Security**
 
 <p align="center" style="margin-bottom: -10px;">
-    <a href="https://learn.microsoft.com/azure/architecture/aws-professional/security-identity" target="_blank"><img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    <a href="https://learn.microsoft.com/azure/architecture/aws-professional/security-identity" target="_blank"><img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logoColor=white"></a>
     <a href="https://jwt.io/introduction" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"></a>
     <a href="https://auth0.com/" target="_blank"><img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"></a> 
     <a href="https://clerk.com/" target="_blank"><img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white"></a>

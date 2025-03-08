@@ -19,7 +19,7 @@
 
 📖 **Background:**
 <ul>
-    <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;"> 🖥️ I'm a <strong>Software and DevOps Developer</strong> who works professionally building backend services and maintain cloud infrastructures</li>
+    <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;"> 🖥️ I'm a <strong>Software and DevOps Developer</strong> who works professionally building backend services and maintaining cloud infrastructures</li>
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">🦠 My academic focus was in <strong>Cellular Biology & Biochemistry</strong> during college and graduate school</li>  
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">🌎 I was born, raised, and currently reside in <strong>NYC</strong>, but prefer a quiet scenery and calm environment</li>
 </ul>

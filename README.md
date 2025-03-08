@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; ext-align:center; ">
     <h3 align="center" style="margin-top: 5px; font-weight: bold; text-align:center;">
-        ────────&nbsp;&nbsp;Back-end Software Developer&nbsp;&nbsp;✦&nbsp;&nbsp;DevOps Engineer&nbsp;&nbsp;────────  
+        ────────&nbsp;&nbsp;Software Developer&nbsp;&nbsp;✦&nbsp;&nbsp;DevOps Engineer&nbsp;&nbsp;────────  
     </h3>
 </div>
 

@@ -49,7 +49,7 @@
 ### **Languages**
 
 <!-- anchor tags must be tightly wrapped around img tags (with no spaces) to prevent underlining in markdown preview and GitHub -->
-<p align="center" style="margin-bottom: -10px;">
+<p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330"></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"></a>
     <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B"></a>
@@ -57,7 +57,7 @@
 
 ### **Web Development**
 
-<p align="center" style="margin-bottom: -10px;">
+<p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DBFB"></a>
     <a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"></a>
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
@@ -70,7 +70,7 @@
 
 ### **System & Infrastructure Design**
 
-<p align="center" style="margin-bottom: -10px;">
+<p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://aws.amazon.com/vpc/" target="_blank"><img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
     <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"></a> 
     <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"></a>
@@ -82,7 +82,7 @@
 
 ### **DevOps & IaC Tools**
 
-<p align="center" style="margin-bottom: -10px;">
+<p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
@@ -94,7 +94,7 @@
 
 ### **Databases & Warehouses**
 
-<p align="center" style="margin-bottom: -10px;">
+<p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft_SQL_Server-cccccc?style=for-the-badge&logo=microsoft-sql-server-icon&logoColor=CC2927"></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -104,7 +104,7 @@
 
 ### **Operating Systems, Cloud Platforms & Virtualization Tools**
 
-<p align="center" style="margin-bottom: -10px;">
+<p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://www.microsoft.com/windows/windows-11?" target="_blank"><img src="https://img.shields.io/badge/Windows_10/11-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI+PHBhdGggZmlsbD0iI2YzZjNmMyIgZD0iTTAgMGgyM3YyM0gweiIvPjxwYXRoIGZpbGw9IiNmMzUzMjUiIGQ9Ik0xIDFoMTB2MTBIMXoiLz48cGF0aCBmaWxsPSIjODFiYzA2IiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIjMDVhNmYwIiBkPSJNMSAxMmgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiNmZmJhMDgiIGQ9Ik0xMiAxMmgxMHYxMEgxMnoiLz48L3N2Zz4="></a>
     <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="https://fedoraproject.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"></a>
@@ -121,7 +121,7 @@
 
 ### **Cloud & App Security**
 
-<p align="center" style="margin-bottom: -10px;">
+<p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://learn.microsoft.com/azure/architecture/aws-professional/security-identity" target="_blank"><img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logoColor=white"></a>
     <a href="https://jwt.io/introduction" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"></a>
     <a href="https://auth0.com/" target="_blank"><img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"></a> 

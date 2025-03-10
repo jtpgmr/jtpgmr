@@ -34,7 +34,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go Logo" height="12.5px">
         </a>
     </li>    
-    <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">🔗 Integrating <strong>new DevOps tools</strong> into my pipelines, such as Terraform, Ansible and Datadog</li>  
+    <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">🔗 Learning various <strong> CI/CD & DevOps tools</strong> to enhance deployment efficiency, system reliability, and performance insights</li>  
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">
         🛠️ Exploring <strong>hardware and IoT</strong> as a means to learn lower-level programming languages like
         <a href="https://devdocs.io/cpp/" target="_blank">

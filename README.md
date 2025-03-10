@@ -27,7 +27,7 @@
 <br />
 
 🔭 **Current Focus:**  
-<ul style="">
+<ul>
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">
         ⚙️ Building <strong>APIs & CLI tools</strong> with 
         <a href="https://go.dev/" target="_blank">
@@ -36,9 +36,9 @@
     </li>    
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">🔗 Learning various <strong> CI/CD & DevOps tools</strong> to enhance deployment efficiency, system reliability, and performance insights</li>  
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">
-        🛠️ Exploring <strong>hardware and IoT</strong> as a means to learn lower-level programming languages like
+        🛠️ Exploring <strong>hardware and IoT</strong> while learning lower-level programming languages like
         <a href="https://devdocs.io/cpp/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" alt="C++ Logo" height="20px" style="justify-items:center; align-items:center; margin: -5 0 -5 5px">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" alt="C++ Logo" height="25px" style="vertical-align: middle;">
         </a>
     </li>
 </ul>
@@ -74,9 +74,10 @@
     <a href="https://aws.amazon.com/vpc/" target="_blank"><img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
     <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"></a> 
     <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"></a>
+    <a href="https://aws.amazon.com/fargate/" target="_blank"><img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=awsfargate&logoColor=white"></a>
     <br />
     <a href="https://aws.amazon.com/sqs/" target="_blank"><img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
-    <a href="https://aws.amazon.com/sns/" target="_blank"><img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
+    <a href="https://aws.amazon.com/sns/" target="_blank"><img src="https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
     <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
 </p>
 
@@ -97,6 +98,7 @@
 <p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft_SQL_Server-cccccc?style=for-the-badge&logo=microsoft-sql-server-icon&logoColor=CC2927"></a>
+    <br />
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="https://www.snowflake.com/" target="_blank"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"></a>
@@ -126,8 +128,9 @@
     <a href="https://jwt.io/introduction" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"></a>
     <a href="https://auth0.com/" target="_blank"><img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"></a> 
     <a href="https://clerk.com/" target="_blank"><img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white"></a>
+    <br />
+    <a href="https://aws.amazon.com/secrets-manager/" target="_blank"><img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white"></a>
     <a href="https://www.cloudflare.com/learning/access-management/what-is-ssh/#:~:text=What-is-the-Secure-Shell,and-encrypt-connections-between-devices" target="_blank"><img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=keeweb&logoColor=white"></a> 
-    <a href="https://aws.amazon.com/secrets-manager/" target="_blank"><img src="https://img.shields.io/badge/AWS Secrets-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white"></a>
 </p>
 
 ---

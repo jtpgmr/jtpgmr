@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://reactjs-resume-a4406.web.app" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Website-000000?style=for-the-badge&logo=web"></a>
-    <a href="https://raw.githubusercontent.com/jtpgmr/jtpgmr.github.io/qa/about-me/docs/jlc_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=superuser"></a>
+    <a href="https://jtpgmr.github.io/about-me/docs/jlc_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=superuser"></a>
     <br />
     <a href="https://linkedin.com/in/jose-luis-cruz-jr" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"></a>&nbsp;
     <a href="mailto:jtpgmr@gmail.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/GMail-ffffff?style=for-the-badge&logo=Gmail_icon"></a>&nbsp;

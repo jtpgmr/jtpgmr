@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://reactjs-resume-a4406.web.app" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Website-000000?style=for-the-badge&logo=web"></a>
-    <a href="https://raw.githubusercontent.com/jtpgmr/jtpgmr.github.io/qa/about-me/docs/jlc_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=superuser"></a>
+    <a href="https://raw.githubusercontent.com/jtpgmr/jtpgmr.github.io/dev/about-me/docs/jlc_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=superuser"></a>
     <br />
     <a href="https://linkedin.com/in/jose-luis-cruz-jr" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"></a>&nbsp;
     <a href="mailto:jtpgmr@gmail.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/GMail-ffffff?style=for-the-badge&logo=Gmail_icon"></a>&nbsp;
@@ -20,6 +20,7 @@
 ## 🔎 **About Me**
 
 📖 **Background:**
+
 <ul>
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;"> 🖥️ I'm a <strong>Software and DevOps Developer</strong> who works professionally building backend services and maintaining cloud infrastructures</li>
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">🦠 My academic focus was in <strong>Cellular Biology & Biochemistry</strong> during college and graduate school</li>  
@@ -28,7 +29,8 @@
 
 <br />
 
-🔭 **Current Focus:**  
+🔭 **Current Focus:**
+
 <ul>
     <li style="font-size: 1.1em; list-style-type: none; margin: 7.5 0px;">
         ⚙️ Building <strong>APIs & CLI tools</strong> with 
@@ -46,6 +48,7 @@
 </ul>
 
 ---
+
 ## 🛠️ **Skills & Expertise**
 
 ### **Languages**
@@ -122,7 +125,6 @@
     <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
 </p>
 
-
 ### **Cloud & App Security**
 
 <p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
@@ -138,6 +140,7 @@
 ---
 
 ## 📊 **GitHub Stats**
+
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=jtpgmr&show_icons=true&theme=dark&count_private=true" height="160px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtpgmr&theme=dark" height="160px">

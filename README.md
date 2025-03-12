@@ -7,7 +7,9 @@
 </div>
 
 <p align="center">
-    <a href="https://reactjs-resume-a4406.web.app" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-000000?style=for-the-badge&logo=Globe_icon&logoColor=white"></a>&nbsp;
+    <a href="https://reactjs-resume-a4406.web.app" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Website-000000?style=for-the-badge&logo=web"></a>
+    <a href="https://raw.githubusercontent.com/jtpgmr/jtpgmr.github.io/dev/about-me/docs/jlc_resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=superuser"></a>
+    <br />
     <a href="https://linkedin.com/in/jose-luis-cruz-jr" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white"></a>&nbsp;
     <a href="mailto:jtpgmr@gmail.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/GMail-ffffff?style=for-the-badge&logo=Gmail_icon"></a>&nbsp;
     <a href="https://github.com/jtpgmr" target="_blank"><img src="https://img.shields.io/github/followers/jtpgmr?style=for-the-badge&logo=github&label=Follow"></a>&nbsp;
@@ -59,7 +61,7 @@
 
 <p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
     <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DBFB"></a>
-    <a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"></a>
+    <a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=ffd11a"></a>
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
     <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"></a>
     <br />
@@ -124,7 +126,7 @@
 ### **Cloud & App Security**
 
 <p align="center" style="justify-content: center; align-items: center; margin-bottom: -15px">
-    <a href="https://learn.microsoft.com/azure/architecture/aws-professional/security-identity" target="_blank"><img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logoColor=white"></a>
+    <a href="https://learn.microsoft.com/azure/architecture/aws-professional/security-identity" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/IAM_/_RBAC-232F3E?style=for-the-badge&logo=user&logoColor=white"></a>
     <a href="https://jwt.io/introduction" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"></a>
     <a href="https://auth0.com/" target="_blank"><img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"></a> 
     <a href="https://clerk.com/" target="_blank"><img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white"></a>
